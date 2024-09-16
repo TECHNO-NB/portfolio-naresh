@@ -1,5 +1,5 @@
 import { CardHoverEffectDemo } from "@/components/Card";
-import Footer from "@/components/Footer";
+
 
 import React from "react";
 
